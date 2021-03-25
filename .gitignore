@@ -6,6 +6,8 @@ ZNO-PostgreSQL
 __pycache__/
 *.py[cod]
 *$py.class
+Lab11/
+.vscode
 
 # C extensions
 *.so
